@@ -1,0 +1,1 @@
+Casual tinkering with Google's ADK
